@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --config webpack.config.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Smit Raval",
   "license": "MIT",
@@ -23,7 +22,6 @@
     "webpack-dev-server": "^3.1.8"
   },
   "dependencies": {
-    "jsx-pragmatic": "^2.0.6",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-hot-loader": "^4.3.11",
